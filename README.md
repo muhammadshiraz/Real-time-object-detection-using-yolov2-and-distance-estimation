@@ -88,4 +88,4 @@ You only look once (YOLO) is an object detection system targeted for real-time p
 ## Run by PyCharm IDE:
  
 #### Object Detection Distance Estimation
-<img src="results/RunbyPyCharmIDE.jpg">
+<img src="results/RunbyPyCharmIDE.png">
