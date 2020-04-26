@@ -2,6 +2,7 @@
 
 This project repository provides a means that can be used to find the distance of an object or an indication of how close the object is, to the camera lens.
 The codes present in this perfume are simply attempts to scan deep concepts for calculating the distance of objects from camera lenses.
+<<<<<<< HEAD
 
 Real-Time Object Detection and Distance Estimation GUI
 
@@ -33,3 +34,5 @@ Real-Time Object Detection and Distance Estimation GUI
 	</tr>
 </tbody>
 </table>
+=======
+>>>>>>> 23365c47b8e851e6870259d766043657ac76bfd7
