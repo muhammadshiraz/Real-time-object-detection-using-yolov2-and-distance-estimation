@@ -5,7 +5,7 @@ The codes present in this perfume are simply attempts to scan deep concepts for 
 
 ## Real-Time Object Detection and Distance Estimation GUI
 
-<table>
+<table align="center">
   <tbody align="center">
 	<tr align="center"> 
 		<th><strong>Object Detection Distance Estimation Bench 1</strong></th>
