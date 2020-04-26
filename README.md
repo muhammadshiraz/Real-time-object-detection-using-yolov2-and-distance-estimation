@@ -33,7 +33,6 @@ The codes present in this perfume are simply attempts to scan deep concepts for 
 	</tr>
 </tbody>
 </table>
-<<<<<<< HEAD
 
 ## YOLOv2
 
@@ -75,7 +74,7 @@ You only look once (YOLO) is an object detection system targeted for real-time p
 </ol>
 <ol start="4">
   <li>To view the object detection distance estimation bench 2</li>
-  <p><code>python Object_Detection_Distance_Estimation_Bench_2py</code></p>
+  <p><code>python Object_Detection_Distance_Estimation_Bench_2.py</code></p>
 </ol>
 <ol start="5">
   <li>To view the object detection distance estimation bench 3</li>
@@ -90,5 +89,3 @@ You only look once (YOLO) is an object detection system targeted for real-time p
  
 #### Object Detection Distance Estimation
 <img src="results/RunbyPyCharmIDE.jpg">
-=======
->>>>>>> e0fcb906a99cdc0d2486d87318f446189736cba6
