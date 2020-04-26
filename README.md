@@ -33,6 +33,7 @@ The codes present in this perfume are simply attempts to scan deep concepts for 
 	</tr>
 </tbody>
 </table>
+<<<<<<< HEAD
 
 ## YOLOv2
 
@@ -89,3 +90,5 @@ You only look once (YOLO) is an object detection system targeted for real-time p
  
 #### Object Detection Distance Estimation
 <img src="results/RunbyPyCharmIDE.jpg">
+=======
+>>>>>>> e0fcb906a99cdc0d2486d87318f446189736cba6
